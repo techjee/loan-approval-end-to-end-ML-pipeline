@@ -99,6 +99,11 @@ Different models were compared, and the best-performing model was selected based
 The application is deployed locally using FastAPI and Docker.  
 It can be easily deployed on cloud platforms like Render or AWS.
 
+## 🌐 Live Deployment
+
+API: https://loan-approval-prediction-system-1-glro.onrender.com  
+Docs: https://loan-approval-prediction-system-1-glro.onrender.com/docs
+
 ## 🌟 Highlights
 
 ✔ End-to-end ML pipeline  
