@@ -1,5 +1,5 @@
 # 💰 Loan Approval Prediction System
-
+A Machine Learning-based system to predict loan approval using FastAPI backend and Streamlit frontend, with Docker support.
 ## 📌 Overview
 This project predicts whether a loan application will be approved or rejected using Machine Learning. It uses applicant details like income, credit history, and loan amount to make accurate predictions.
 
@@ -62,9 +62,16 @@ Output: Approved / Rejected
 
 ---
 
-## 👩‍💻 Author
-Kruthika S  
-GitHub: https://github.com/kruthikasrinivasa
+## 🚀 Demo
+- FastAPI Docs: http://127.0.0.1:8000/docs  
+- Frontend UI: http://localhost:8501
+
+## 👤 Author
+**Kruthika S**  
+🔗 GitHub: https://github.com/kruthikasrinivasa
+
+## 📊 Results
+The following visualizations show model performance and evaluation metrics.
 
 ## 📊 Results
 
