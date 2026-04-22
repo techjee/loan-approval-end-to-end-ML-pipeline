@@ -112,7 +112,7 @@ Docs: https://loan-approval-prediction-system-1-glro.onrender.com/docs
 ✔ Docker-based deployment  
 
 ## 👤 Author
-**Kruthika S**  
+**JEEVITHA A M **  
 🔗 GitHub: https://github.com/kruthikasrinivasa
 
 ## ⚙️ How to Run Locally
