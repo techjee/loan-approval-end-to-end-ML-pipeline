@@ -90,7 +90,7 @@ with left_col:
     predict_btn = st.button("🔍 Predict Loan Status", use_container_width=True)
 
 with right_col:
-    st.subheader("ℹ️ Quick Info")
+    st.subheader("ℹ Quick Info")
 
     total_income = applicant_income + coapplicant_income
     ratio = round(total_income / loan_amount, 2) if loan_amount > 0 else 0
