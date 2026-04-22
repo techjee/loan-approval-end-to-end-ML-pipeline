@@ -113,7 +113,7 @@ Docs: https://loan-approval-prediction-system-1-glro.onrender.com/docs
 
 ## 👤 Author
 **JEEVITHA A M **  
-🔗 GitHub: https://github.com/kruthikasrinivasa
+🔗 GitHub: https://github.com/techjee/loan-approval-end-to-end-ML-pipeline/actions
 
 ## ⚙️ How to Run Locally
 
